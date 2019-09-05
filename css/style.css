@@ -1,0 +1,64 @@
+html {
+	background-color: #E7E7E7; 
+
+}
+h1 {
+	text-align: center;
+}
+#content {
+	margin: 20px;
+}
+#hotdogWrap {
+	display:flex;
+	justify-content: center;
+}
+.visualHotdog {
+	max-width:110px;
+}
+.cabbage {
+  background: #98C95C;
+  float: left;
+  width: 100px;
+  height: 8px;
+  border: 1px solid rgba(0, 0, 0, .2);	
+}
+.carrot {
+  background: #E76F20;
+  float: left;
+  width: 100px;
+  height: 8px;
+  border: 1px solid rgba(0, 0, 0, .2);	
+}
+.bread {
+  background: #E7D7A8;
+  float: left;
+  width: 100px;
+  height: 15px;
+  border: 1px solid rgba(0, 0, 0, .2);	
+}
+.sausage {
+  background: brown;
+  float: left;
+  width: 100px;
+  height: 12px;
+  border: 1px solid rgba(0, 0, 0, .2);	
+}
+.kindHotdog {
+	margin: 0 10px;
+}
+#buttonWrap {
+	padding-top: 15px;
+	display:flex;
+	justify-content: center;
+}
+.button {
+	width:100px;
+	height: 30px;
+	margin:0 10px;
+	background-color: #E7A168;
+}
+
+.addHotdog {
+  text-align: center;
+  margin: 5px 0;
+}
